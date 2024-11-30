@@ -10,5 +10,11 @@ Your manager wants the answer to the following questions:
 - Where are the busiest, joint-use major airports that have control towers and what are their associated codes?
 - What are the origin and destination airports with the smallest average distance between them?
 
-
+## The Dashboard
 <img src="images/dashboard.png">
+
+## The Data Model
+(coming soon)
+
+## The Process
+<a href="sql">sql queries</a>
