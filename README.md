@@ -22,7 +22,7 @@ Coming soon.
 ## 🧑🏻‍🏫 The Process
 <a href="sql">sql queries</a>
 
-## 👉 What now?
+## 👉 Can I get a badge?
 
 Complete the introductory–and free–<a href="https://www.cloudskillsboost.google/course_templates/628">Prepare Data for Looker Dashboards and Reports</a> skill badge to demonstrate skills in the following: filtering, sorting, and pivoting data; merging results from different Looker Explores; and using functions and operators to build Looker dashboards and reports for data analysis and visualization.
 
@@ -35,3 +35,7 @@ A skill badge is an exclusive digital badge issued by Google Cloud in recognitio
 Completing this skill badge earns you the badge above, to recognize your achievement. Share your badge on your resume and social platforms, and announce your accomplishment using #GoogleCloudBadge.
 
 This skill badge is part of <a href="https://www.cloudskillsboost.google/paths/18">Google Cloud’s Data Analyst learning path</a>.
+
+## What now?
+
+If you made it this far, follow <a href="https://beacons.ai/davidregalado">David Regalado</a> for more code!
