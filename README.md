@@ -11,11 +11,13 @@ Your manager wants the answer to the following questions:
 - Where are the busiest, joint-use major airports that have control towers and what are their associated codes?
 - What are the origin and destination airports with the smallest average distance between them?
 
+I'll add more business questions after having an understanding of the underlying data model.
+
 ## 📊 The Dashboard - Looker
 <img src="images/dashboard.png">
 
 ## 🤷🏻 The Data Model
-(coming soon)
+Coming soon.
 
 ## 🧑🏻‍🏫 The Process
 <a href="sql">sql queries</a>
@@ -29,6 +31,7 @@ A skill badge is an exclusive digital badge issued by Google Cloud in recognitio
 ## 🥇 Earn your next skill badge
 
 <img src="images/skill_badge.png" />
+
 Completing this skill badge earns you the badge above, to recognize your achievement. Share your badge on your resume and social platforms, and announce your accomplishment using #GoogleCloudBadge.
 
 This skill badge is part of <a href="https://www.cloudskillsboost.google/paths/18">Google Cloud’s Data Analyst learning path</a>.
